@@ -1,2 +1,5 @@
 # hello-world
-it's a start for python
+#it's a start for python
+
+print("hello-world")
+
